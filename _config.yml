@@ -20,13 +20,13 @@ timezone:
 
 title: PC Drills
 
-tagline: Handle your Computer issues with ease!
+tagline: Handle Your Computer Issues With Ease!
 
 description: >- # used by seo meta and the atom feed
-  Need help with your computing devices? we're here to help you out real quick.
+  Your Premium Tech Support Services From The Comfort Of Your Home Or Office. Need help with your computing devices? we're here to help you out real quick.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "https://pcdrills.github.io"
+url: "https://blog.pcdrills.org"
 
 github:
   username: pcdrills # change to your github username
@@ -38,11 +38,11 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: PC Drills
-  email: pcdrillsofficial@gmail.com # change to your email address
+  email: mail@pcdrills.org # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://www.facebook.com/pcdrillsofficial
-    - https://twitter.com/pc_drills # change to your twitter homepage
+    - https://x.com/pc_drills # change to your twitter homepage
     - https://github.com/pcdrills # change to your github homepage
     - https://t.me/pcdrills # added for the telegram channel
     # Uncomment below to add more social links
@@ -82,7 +82,7 @@ theme_mode: # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: ./assets/img/pcdrills-logo.jpeg
+avatar: ./assets/img/logo.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
