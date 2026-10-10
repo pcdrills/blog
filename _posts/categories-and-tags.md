@@ -6,6 +6,7 @@
 - Windows
 - Settings
 - Devices
+- Linux
 
 
 # Security Sub Categories
@@ -43,6 +44,10 @@ Troubleshooting
 # Devices sub categories
 - Laptops
 - Quality
+
+# Linux sub categories
+- vm
+- kali
 
 
 
