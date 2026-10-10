@@ -1,5 +1,5 @@
 ---
-title: Page title
+title: Post Title
 date: 2025-12-12 18:09:00 +60
 image: https://i.postimg.cc/ydQr9bWL/screenshot-window-10.jpg
 categories: [Tutorials, Windows]
